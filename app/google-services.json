@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "891231865836",
+    "project_id": "bmehomework",
+    "storage_bucket": "bmehomework.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891231865836:android:01c1a2a4cfef883bd08ec9",
+        "android_client_info": {
+          "package_name": "com.example.bmehomework"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891231865836-535h44ggch928qavln3kkuqes4k57t8v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9hRSXv-Wr3ytBfCcw2I0Vt94rF5DUGSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891231865836-535h44ggch928qavln3kkuqes4k57t8v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

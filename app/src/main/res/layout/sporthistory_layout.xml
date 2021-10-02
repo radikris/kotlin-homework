@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/card_view"
+    android:layout_marginHorizontal="32dp"
+    android:layout_marginVertical="8dp"
+    app:cardBackgroundColor="@color/colorPrimary"
+    app:cardCornerRadius="16dp"
+    app:contentPadding="16dp"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/sporthistory_type"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_gravity="center" />
+
+        <TextView android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:text="Alma körte hosszú szöveg"
+                android:layout_marginLeft="12dp"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:id="@+id/sporthistory_name"
+                />
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_weight="1" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="12 m"
+            android:gravity="right"
+            android:layout_marginRight="16dp"
+            android:layout_gravity="center"
+            android:id="@+id/sporthistory_time"
+            />
+
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>
