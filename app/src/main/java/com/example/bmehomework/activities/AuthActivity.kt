@@ -133,6 +133,7 @@ class AuthActivity : AppCompatActivity(), LocationListener {
 
     @SuppressLint("MissingPermission")
     override fun onCreate(savedInstanceState: Bundle?) {
+        setTheme(R.style.AppTheme)
         super.onCreate(savedInstanceState)
 
         val user: FirebaseUser? = FirebaseAuth.getInstance().currentUser
