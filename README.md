@@ -26,5 +26,5 @@ App essence: there are two types of users: track registrar / regular coach user.
 
 What is not included yet:
 
-viewbinding
-loading state while writing to database
+- viewbinding
+- loading state while writing to database
