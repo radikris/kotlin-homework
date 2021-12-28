@@ -3,7 +3,7 @@ Homework for my kotlin lecture
 Which I used in the project:
 
 
-Video: https://drive.google.com/file/d/1-ok7AslWufX4vIpG26N943RrYJUR6J1n/view?usp=sharing
+Video: https://youtu.be/Oqb9TIvfVRk
 
 (I suggest take the sound off because my annoying keyboard is vibrating in the process :D)
 
